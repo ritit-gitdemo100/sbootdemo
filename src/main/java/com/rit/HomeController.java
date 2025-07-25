@@ -8,7 +8,7 @@ public class HomeController {
 
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello Web";
+		return "Hello Web 123";
 	}
 }
 
